@@ -234,6 +234,5 @@ This is a simple and secure Todo App API built with Node.js, Express, and MongoD
 
 ## Author
 Developed by [Harsh Kumar Mishra](https://github.com/Harshmishra001).
-Developed by [Mohit Kumar](https://github.com/Mohit-Kumar-3114).
 
 
