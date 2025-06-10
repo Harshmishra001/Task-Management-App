@@ -1,4 +1,4 @@
-# Todo App API
+# Task Management App API
 
 ## Overview
 This is a simple and secure Todo App API built with Node.js, Express, and MongoDB. It provides user authentication using JWT and allows users to manage their tasks efficiently.
